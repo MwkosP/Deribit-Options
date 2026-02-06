@@ -1,5 +1,16 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MwkosP/Deribit-Options/main/Hyperopde.png" alt="AutoTA Icon" width="100%">
+</p>
+
+
+
 # Deribit Options Data Retriever & Greeks Calculator
  LIBRARY UNDER HEAVY CONSTRUCTION 🚧🚧🚧
+
+
+ [![python](https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11%20|%203.12-blue?logo=python)](https://www.python.org/)
+[![pypi](https://img.shields.io/pypi/v/autota?logo=pypi)](https://pypi.org/project/autota/)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Project Overview
 
 This project fetches BTC options data from Deribit's API and calculates option Greeks (Delta, Gamma, Vega, Theta) using the Black-Scholes model. It provides both real-time market snapshots and historical data reconstruction capabilities.
@@ -433,4 +444,5 @@ Deribit® is a registered trademark. This project is not affiliated with or endo
 **Last Updated:** February 6, 2026  
 **Maintainer:** Contact via GitHub issues  
 **Version:** 1.0.0
+
 
