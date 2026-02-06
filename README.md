@@ -1,5 +1,5 @@
 # Deribit Options Data Retriever & Greeks Calculator
-
+ LIBRARY UNDER HEAVY CONSTRUCTION 🚧🚧🚧
 ## Project Overview
 
 This project fetches BTC options data from Deribit's API and calculates option Greeks (Delta, Gamma, Vega, Theta) using the Black-Scholes model. It provides both real-time market snapshots and historical data reconstruction capabilities.
@@ -433,3 +433,4 @@ Deribit® is a registered trademark. This project is not affiliated with or endo
 **Last Updated:** February 6, 2026  
 **Maintainer:** Contact via GitHub issues  
 **Version:** 1.0.0
+
