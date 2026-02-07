@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MwkosP/Deribit-Options/main/Hyper-opde.png" alt="AutoTA Icon" width="100%">
+  <img src="https://raw.githubusercontent.com/MwkosP/Deribit-Options/main/Hyper-OPDE.png" alt="AutoTA Icon" width="100%">
 </p>
 
 
